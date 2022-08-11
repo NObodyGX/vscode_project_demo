@@ -1,2 +1,3 @@
 # vscode_project_demo
-various project demo for vscode
+
+各种项目的初始化文件夹，让各个项目开箱即用
